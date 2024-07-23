@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+    top:0;
+    text-decoration: none;
+    font-family: outfit, sans-serif;
+}
+html{
+    display: block;
+}
+html,body{
+    background-color: #010922;
+}
+.background img{
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    z-index: 2;
+    opacity: 90%;
+}
+ 
